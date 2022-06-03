@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class JerkinsApplication {
-
+	
 	public static void main(String[] args) {
 		SpringApplication.run(JerkinsApplication.class, args);
 	}
